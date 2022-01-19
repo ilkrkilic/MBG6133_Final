@@ -1,5 +1,5 @@
 # MBG6133_Final
-*Relevant Jupyter Notebook file is uploaded to this Github Repository*
+*Relevant Jupyter Notebook file is uploaded to this Github Repository as* **ilkerkilic_mbg6133_final.ipynb**
 
 ## Q1
 ### Q1.1
